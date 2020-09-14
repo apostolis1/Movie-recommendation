@@ -20,4 +20,4 @@ This is a demo of the application. Notice that every field in the main window ca
 - BeautifulSoup and requests module for web scaping
 - Multiprocessing for parallel manipulation of data
 - PyQt for the Gui part
-- Sqlite3 for the database.
+- Sqlite3 for the database
