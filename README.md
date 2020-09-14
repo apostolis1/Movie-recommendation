@@ -9,6 +9,12 @@ The files will be updated and refactored since they are kind of a mess right now
 
 Obviously the creation of the database only needs to be done once, additionally I am planning to upload the database so that you can just download it, put it in the folder of the script and be ready to go. Until then, you have to run the scripts to create it in your own. Also the option to create the database from the TSV files will be added.
 
+# Demo
+
+This is a demo of the application. Notice that every field in the main window can be used in order to search for the movie (eg Name, Year, ID etc) and the fields work together to (eg in the demo we use name + actor)
+
+![] (demo/demo.gif) 
+
 # Libraries and Frameworks
 
 - BeautifulSoup and requests module for web scaping
