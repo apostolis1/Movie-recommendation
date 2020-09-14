@@ -11,7 +11,7 @@ Obviously the creation of the database only needs to be done once, additionally 
 
 # Demo
 
-This is a demo of the application. Notice that every field in the main window can be used in order to search for the movie (eg Name, Year, ID etc) and the fields work together to (eg in the demo we use name + actor)
+This is a demo of the application. Notice that every field in the main window can be used in order to search for the movie (eg Title, Year, ID etc) and the fields work together to (eg in the demo we use title + actor)
 
 ![A demo of the app](demo/demo.gif) 
 
