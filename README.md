@@ -7,7 +7,7 @@ The files will be updated and refactored since they are kind of a mess right now
 - Create the soup for each movie
 - Use numpy to find similiarities between movies (again in parallel, takes about 15 secs to get the recommendtions)
 
-Obviously the creation of the database only needs to be done once, additionally I am planning to upload the database so that you can just download it, put it in the folder of the script and be ready to go. Until then, you have to run the scripts to create it in your own. Also the option to create the database from the TSV files will be added.
+Obviously the creation of the database only needs to be done once. Additionally I am planning to upload the database so that you can just download it, put it in the folder of the script and be ready to go. Until then, you have to run the scripts to create it on your own. Also the option to create the database from the TSV files will be added.
 
 # Demo
 
